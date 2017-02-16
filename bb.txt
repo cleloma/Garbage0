@@ -1,3 +1,4 @@
 MY fitst USE of git
 MY use  of diff and 
 I try to use the branch
+Creating a branch is quick simple
